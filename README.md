@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
