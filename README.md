@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
