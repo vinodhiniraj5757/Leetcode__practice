@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
