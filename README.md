@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +40,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -70,4 +74,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
