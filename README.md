@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0238-product-of-array-except-self) |
+| [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0054-spiral-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## String
 |  |
 | ------- |
