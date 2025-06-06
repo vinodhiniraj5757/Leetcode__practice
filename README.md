@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0542-01-matrix) |
+| [0724-find-pivot-index](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
 | ------- |
