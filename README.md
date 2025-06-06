@@ -88,13 +88,19 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0542-01-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
