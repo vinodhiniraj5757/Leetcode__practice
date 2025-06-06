@@ -5,12 +5,11 @@ class Solution {
         {
             sum=sum+nums[i];
         }
-        int rs=sum;
         for(int i=0;i<nums.length;i++)
         {
             int c=nums[i];
-            rs=rs-c;
-            if(ls==rs)
+            sum=sum-c;
+            if(ls==sum)
             {
                 return i;
             }
