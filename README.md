@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
