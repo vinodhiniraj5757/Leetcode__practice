@@ -76,6 +76,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
