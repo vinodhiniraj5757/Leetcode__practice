@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0724-find-pivot-index) |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +108,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
