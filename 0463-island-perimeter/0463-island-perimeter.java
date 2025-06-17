@@ -11,14 +11,11 @@ class Solution {
                 if(grid[i][j]==1)
                 {
                     co=co+4;
-                     if (i > 0 && grid[i - 1][j] == 1) {
+                     if (i >0 && grid[i - 1][j] == 1) 
                         co -= 2;
-                    }
-
-                    // If land to the left exists, subtract 2 (shared edge)
-                    if (j > 0 && grid[i][j - 1] == 1) {
+                    if (j > 0 && grid[i][j - 1] == 1) 
                         co -= 2;
-                    }
+                    
                 }
             }
             
