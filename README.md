@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0908-middle-of-the-linked-list) |
 ## Database
 |  |
