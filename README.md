@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +166,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0908-middle-of-the-linked-list) |
