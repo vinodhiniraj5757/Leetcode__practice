@@ -132,6 +132,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0231-power-of-two) |
 ## Counting
 |  |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0463-island-perimeter) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
