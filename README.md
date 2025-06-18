@@ -102,6 +102,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
@@ -190,8 +191,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
