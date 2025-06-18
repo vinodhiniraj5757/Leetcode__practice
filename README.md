@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
@@ -184,4 +185,12 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
