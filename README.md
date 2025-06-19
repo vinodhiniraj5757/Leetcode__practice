@@ -24,6 +24,7 @@
 | [0498-diagonal-traverse](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
