@@ -169,6 +169,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0463-island-perimeter) |
 ## Linked List
 |  |
@@ -210,4 +211,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
