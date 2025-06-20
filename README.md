@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0074-search-a-2d-matrix) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0119-pascals-triangle-ii) |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
