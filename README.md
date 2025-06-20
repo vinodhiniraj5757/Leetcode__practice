@@ -32,6 +32,7 @@
 | [0542-01-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@
 | [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
+| [0860-design-circular-queue](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0908-middle-of-the-linked-list) |
 ## Database
 |  |
@@ -221,12 +223,14 @@
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
+| [0860-design-circular-queue](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
