@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0908-middle-of-the-linked-list) |
 ## Database
 |  |
@@ -217,6 +219,7 @@
 | [0155-min-stack](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 | ------- |
 | [0055-jump-game](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0455-assign-cookies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
