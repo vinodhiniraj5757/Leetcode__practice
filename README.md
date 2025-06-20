@@ -160,6 +160,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0463-island-perimeter) |
@@ -187,6 +188,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0463-island-perimeter) |
@@ -241,11 +243,13 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Greedy
