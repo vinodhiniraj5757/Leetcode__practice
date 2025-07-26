@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0055-jump-game) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
