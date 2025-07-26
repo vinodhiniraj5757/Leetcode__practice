@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0349-intersection-of-two-arrays) |
@@ -282,6 +284,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vinodhiniraj5757/Leetcode__practice/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
